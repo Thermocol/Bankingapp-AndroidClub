@@ -7,5 +7,10 @@ https://dribbble.com/shots/17409666-Investkan-Investment-Bank-Mobile-App/attachm
 ### 1. Basic UI:
 
  ![](Investment-Mobile-UI-main/ss/S1.png ) 
+ 
+ 
+ 
+ 
+ ![](Investment-Mobile-UI-main/ss/S2.png ) 
 
 
