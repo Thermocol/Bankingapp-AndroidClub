@@ -4,4 +4,4 @@
 ## Home Screen:
 ### 1. Basic UI:
 
- ![](Investment-Mobile-UI-main/SS/Ui.png ) 
+ ![](Investment-Mobile-UI-main/ss/s1.png ) 
